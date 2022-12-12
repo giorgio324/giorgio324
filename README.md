@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @giorgio324
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning html, css, js
-- 💞️ I’m looking to collaborate on projcts
-- 📫 How to reach me giorgikochuashvili2002@gmail.com
+- 👋 Hi, I’m giorgi kochuashvili
+- 👀 I’m interested in web-dev
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to get internship as frontend-dev
+- 📫 my email: giorgikochuashvili2002@gmail.com
